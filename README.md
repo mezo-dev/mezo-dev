@@ -4,7 +4,6 @@ I'm Backend Engineer with 2+ years of experience designing and developing scalab
 
 #### 📫 Reach me at:
 - [LinkedIn](https://www.linkedin.com/in/moataz-fawzy-backend/)
-- [Website](https://moataz0000.github.io/Moataz-Fawzy/)
 - [motazfawzy73@gmail.com](mailto:motazfawzy73@gmail.com)
 
 <hr>
