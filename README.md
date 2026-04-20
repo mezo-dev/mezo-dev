@@ -1,6 +1,6 @@
 # Hello, I'm Moataz 👋
 
-I'm Backend Engineer with 2+ years of experience designing and developing scalable, high-performance **Backend Systems** and APIs using Python, Django, DRF, FastAPI, and AWS-based CI/CD pipelines.
+I'm Backend Engineer with 3+ years of experience designing and developing scalable, high-performance **Backend Systems** and APIs using Python, Django, DRF, FastAPI, and AWS-based CI/CD pipelines.
 
 #### 📫 Reach me at:
 - [LinkedIn](https://www.linkedin.com/in/moataz-fawzy-backend/)
