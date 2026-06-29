@@ -2,10 +2,6 @@
 
 **Backend Python Engineer** with **3+ years** of experience building scalable APIs and backend systems."
 
-### 💻 Tech Stack
-
-🐍 Python • 🎯 Django • ⚡ FastAPI • 🔗 Django REST Framework • 🐳 Docker • ☁️ AWS • 🐘 PostgreSQL • 🛢️ MySQL • 🍃 LLM
-
 ### What I Do
 
 *  Build scalable backend systems
