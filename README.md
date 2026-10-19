@@ -20,5 +20,3 @@
 ### 🏆 Competitive Programming
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Mezo-blue?logo=codeforces)](https://codeforces.com/profile/Mezo12)
-
-<img src="https://komarev.com/ghpvc/?username=mezo-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
