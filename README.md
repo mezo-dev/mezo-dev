@@ -5,6 +5,7 @@
 ### What I Do
 
 *  Build scalable backend systems
+*  Integrate with LLMS
 *  Authentication & Security (JWT, OAuth2, OTP، 2FA)
 *  Payment & Wallet integrations
 *  Performance optimization
